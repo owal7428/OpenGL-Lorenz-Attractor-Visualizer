@@ -1,0 +1,15 @@
+HW2: Lorenz Attractor
+
+Owen Allison
+CSCI-4229 Fall 2023
+
+Visualization of the Lorenz attractor.
+
+How to use:
+    -Use the arrow keys to change the viewing angle.
+    -To toggle on/off the autmoatic parameter changer press the key 'a'.
+    -To enter edit mode for the parameter s for the Lorenz attractor, press the key 's' and then
+     press the '+' key (upper or lowercase) or the '-' key (upper or lowercase) to increase
+     or decrease the parameter. Press any other normal keyboard key to exit edit mode.
+    -Press the key 'b' or the key 'r' to enter the edit modes for the parameters b and r respectively.
+    -Press ESC to exit the program.
